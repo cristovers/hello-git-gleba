@@ -3,5 +3,5 @@ print(w)
 
 
 for character in w:
-    print(character)
-    print("ASCII:", ord(character))
+
+    print(character ,"-", ord(character))
